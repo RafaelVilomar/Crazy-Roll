@@ -1,0 +1,13 @@
+C:\Users\angga\source\repos\Crazy_Roll\Crazy_Roll\bin\Debug\netcoreapp3.1\Crazy_Roll.exe
+C:\Users\angga\source\repos\Crazy_Roll\Crazy_Roll\bin\Debug\netcoreapp3.1\Crazy_Roll.deps.json
+C:\Users\angga\source\repos\Crazy_Roll\Crazy_Roll\bin\Debug\netcoreapp3.1\Crazy_Roll.runtimeconfig.json
+C:\Users\angga\source\repos\Crazy_Roll\Crazy_Roll\bin\Debug\netcoreapp3.1\Crazy_Roll.runtimeconfig.dev.json
+C:\Users\angga\source\repos\Crazy_Roll\Crazy_Roll\bin\Debug\netcoreapp3.1\Crazy_Roll.dll
+C:\Users\angga\source\repos\Crazy_Roll\Crazy_Roll\bin\Debug\netcoreapp3.1\Crazy_Roll.pdb
+C:\Users\angga\source\repos\Crazy_Roll\Crazy_Roll\obj\Debug\netcoreapp3.1\Crazy_Roll.AssemblyInfoInputs.cache
+C:\Users\angga\source\repos\Crazy_Roll\Crazy_Roll\obj\Debug\netcoreapp3.1\Crazy_Roll.AssemblyInfo.cs
+C:\Users\angga\source\repos\Crazy_Roll\Crazy_Roll\obj\Debug\netcoreapp3.1\Crazy_Roll.csproj.CoreCompileInputs.cache
+C:\Users\angga\source\repos\Crazy_Roll\Crazy_Roll\obj\Debug\netcoreapp3.1\Crazy_Roll.dll
+C:\Users\angga\source\repos\Crazy_Roll\Crazy_Roll\obj\Debug\netcoreapp3.1\Crazy_Roll.pdb
+C:\Users\angga\source\repos\Crazy_Roll\Crazy_Roll\obj\Debug\netcoreapp3.1\Crazy_Roll.genruntimeconfig.cache
+C:\Users\angga\source\repos\Crazy_Roll\Crazy_Roll\obj\Debug\netcoreapp3.1\Crazy_Roll.csprojAssemblyReference.cache
