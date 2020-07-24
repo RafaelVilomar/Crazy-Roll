@@ -96,7 +96,7 @@ namespace Crazy_Roll
             }
             while (conteo < jugadores);
 
-            Console.WriteLine("El ganador es:....",);
+            Console.WriteLine("El ganador es:....");
         }
 
 
